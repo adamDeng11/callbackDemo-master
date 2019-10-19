@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">callbackDemo</string>
+    <string name="btn_callback">按钮回调</string>
+</resources>
